@@ -6,7 +6,7 @@ from datetime import date
 connection = mysql.connector.connect(
 	host="localhost",
 	user="root",
-	passwd="6y7u8i9o",
+	passwd="6oy9",
 	database="journalDB")
 
 # I tried to set up a webhost so this could be run by anyone, but I think road runner (spectrum) was not allowing
